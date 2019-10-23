@@ -1,0 +1,14 @@
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\ApiCopaFilmes\bin\Debug\netcoreapp2.2\ApiCopaFilmes.deps.json
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\ApiCopaFilmes\bin\Debug\netcoreapp2.2\ApiCopaFilmes.runtimeconfig.json
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\ApiCopaFilmes\bin\Debug\netcoreapp2.2\ApiCopaFilmes.runtimeconfig.dev.json
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\ApiCopaFilmes\bin\Debug\netcoreapp2.2\ApiCopaFilmes.dll
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\ApiCopaFilmes\bin\Debug\netcoreapp2.2\ApiCopaFilmes.pdb
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\ApiCopaFilmes\obj\Debug\netcoreapp2.2\ApiCopaFilmes.csprojAssemblyReference.cache
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\ApiCopaFilmes\obj\Debug\netcoreapp2.2\ApiCopaFilmes.csproj.CoreCompileInputs.cache
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\ApiCopaFilmes\obj\Debug\netcoreapp2.2\ApiCopaFilmes.RazorAssemblyInfo.cache
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\ApiCopaFilmes\obj\Debug\netcoreapp2.2\ApiCopaFilmes.RazorAssemblyInfo.cs
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\ApiCopaFilmes\obj\Debug\netcoreapp2.2\ApiCopaFilmes.AssemblyInfoInputs.cache
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\ApiCopaFilmes\obj\Debug\netcoreapp2.2\ApiCopaFilmes.AssemblyInfo.cs
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\ApiCopaFilmes\obj\Debug\netcoreapp2.2\ApiCopaFilmes.RazorTargetAssemblyInfo.cache
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\ApiCopaFilmes\obj\Debug\netcoreapp2.2\ApiCopaFilmes.dll
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\ApiCopaFilmes\obj\Debug\netcoreapp2.2\ApiCopaFilmes.pdb

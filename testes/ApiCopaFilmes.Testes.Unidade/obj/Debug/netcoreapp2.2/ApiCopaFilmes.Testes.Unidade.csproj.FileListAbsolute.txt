@@ -1,0 +1,17 @@
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\testes\ApiCopaFilmes.Testes.Unidade\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\testes\ApiCopaFilmes.Testes.Unidade\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\testes\ApiCopaFilmes.Testes.Unidade\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\testes\ApiCopaFilmes.Testes.Unidade\bin\Debug\netcoreapp2.2\ApiCopaFilmes.Testes.Unidade.deps.json
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\testes\ApiCopaFilmes.Testes.Unidade\bin\Debug\netcoreapp2.2\ApiCopaFilmes.Testes.Unidade.runtimeconfig.json
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\testes\ApiCopaFilmes.Testes.Unidade\bin\Debug\netcoreapp2.2\ApiCopaFilmes.Testes.Unidade.runtimeconfig.dev.json
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\testes\ApiCopaFilmes.Testes.Unidade\bin\Debug\netcoreapp2.2\ApiCopaFilmes.Testes.Unidade.dll
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\testes\ApiCopaFilmes.Testes.Unidade\bin\Debug\netcoreapp2.2\ApiCopaFilmes.Testes.Unidade.pdb
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\testes\ApiCopaFilmes.Testes.Unidade\bin\Debug\netcoreapp2.2\ApiCopaFilmes.dll
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\testes\ApiCopaFilmes.Testes.Unidade\bin\Debug\netcoreapp2.2\ApiCopaFilmes.pdb
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\testes\ApiCopaFilmes.Testes.Unidade\obj\Debug\netcoreapp2.2\ApiCopaFilmes.Testes.Unidade.csprojAssemblyReference.cache
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\testes\ApiCopaFilmes.Testes.Unidade\obj\Debug\netcoreapp2.2\ApiCopaFilmes.Testes.Unidade.csproj.CoreCompileInputs.cache
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\testes\ApiCopaFilmes.Testes.Unidade\obj\Debug\netcoreapp2.2\ApiCopaFilmes.Testes.Unidade.AssemblyInfoInputs.cache
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\testes\ApiCopaFilmes.Testes.Unidade\obj\Debug\netcoreapp2.2\ApiCopaFilmes.Testes.Unidade.AssemblyInfo.cs
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\testes\ApiCopaFilmes.Testes.Unidade\obj\Debug\netcoreapp2.2\ApiCopaFilmes.Testes.Unidade.csproj.CopyComplete
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\testes\ApiCopaFilmes.Testes.Unidade\obj\Debug\netcoreapp2.2\ApiCopaFilmes.Testes.Unidade.dll
+C:\Lambda\Dojo Testes\Dojo_CopaFilmes\ApiCopaFilmes\testes\ApiCopaFilmes.Testes.Unidade\obj\Debug\netcoreapp2.2\ApiCopaFilmes.Testes.Unidade.pdb

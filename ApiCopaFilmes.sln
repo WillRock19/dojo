@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCopaFilmes", "ApiCopaFilmes\ApiCopaFilmes.csproj", "{43C63499-3604-4A0E-BF61-0C74D0984922}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "testes", "testes", "{29BFF689-0D5C-4B83-B91B-5BB3653E35D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCopaFilmes.Testes.Unidade", "testes\ApiCopaFilmes.Testes.Unidade\ApiCopaFilmes.Testes.Unidade.csproj", "{CC0E229E-9BF9-4A0E-9661-894D9331FEBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43C63499-3604-4A0E-BF61-0C74D0984922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C63499-3604-4A0E-BF61-0C74D0984922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C63499-3604-4A0E-BF61-0C74D0984922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C63499-3604-4A0E-BF61-0C74D0984922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC0E229E-9BF9-4A0E-9661-894D9331FEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0E229E-9BF9-4A0E-9661-894D9331FEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0E229E-9BF9-4A0E-9661-894D9331FEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0E229E-9BF9-4A0E-9661-894D9331FEBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CC0E229E-9BF9-4A0E-9661-894D9331FEBF} = {29BFF689-0D5C-4B83-B91B-5BB3653E35D3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB057696-661C-4657-ACA2-1CA351DD68B3}
+	EndGlobalSection
+EndGlobal
