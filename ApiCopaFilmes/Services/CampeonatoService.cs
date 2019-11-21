@@ -8,16 +8,27 @@ namespace ApiCopaFilmes.Services
     {
         public Vencedores GerarVencedores(IEnumerable<Filme> filmes)
         {
+            var vencedores = new Vencedores();
+
             var listaOrdenadaPorNota = filmes.OrderByDescending(x => x.Nota);
-            
-            //if(listaOrdenadaPorNota.ElementAt(0).Nota == listaOrdenadaPorNota.ElementAt(1).Nota)
-            //    listaOrdenadaPorNota = filmes.OrderByDescending(x => x.Titulo);
+
+            if (listaOrdenadaPorNota.ElementAt(0).Nota != listaOrdenadaPorNota.ElementAt(1).Nota)
+            {
+                vencedores.PrimeiroLugar = listaOrdenadaPorNota.ElementAt(0);
+                vencedores.SegundoLugar = listaOrdenadaPorNota.ElementAt(1);
+
+                return vencedores;
+            }
+
+            var novaLista = new List<Filme>() { listaOrdenadaPorNota.ElementAt(0), listaOrdenadaPorNota.ElementAt(1) };
+            var ordenadosPorTitulo = novaLista.OrderBy(x => x.Titulo);
 
             return new Vencedores
             {
-                PrimeiroLugar = listaOrdenadaPorNota.ElementAt(0),
-                SegundoLugar = listaOrdenadaPorNota.ElementAt(1)
+                PrimeiroLugar = ordenadosPorTitulo.ElementAt(0),
+                SegundoLugar = ordenadosPorTitulo.ElementAt(1)
             };
         }
+
     }
 }
